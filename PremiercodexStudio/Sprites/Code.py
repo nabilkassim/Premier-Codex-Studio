@@ -5,3 +5,4 @@ if number % 2 == 0:
 else:
     print(f"{number} is odd")
 Edited by aiman
+Edited by aiman 2.0
