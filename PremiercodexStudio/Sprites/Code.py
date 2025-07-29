@@ -4,5 +4,4 @@ if number % 2 == 0:
     print(f"{number} is even")
 else:
     print(f"{number} is odd")
-Edited by aiman
-Edited by aiman 2.0
+Edited by izzul
